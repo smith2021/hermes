@@ -23,7 +23,7 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Bebas Neue
+## BebasNeue
 
 ```md____________________________________________________________________________________________________
     _____     _     _    __      ____      _   _     __        ______    _     _    ____      _____ 
